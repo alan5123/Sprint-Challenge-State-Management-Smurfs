@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+.Form {
+  text-align: center;
+  margin: 2% 0;
+}
+.SmurfCard {
+ 
+  text-align: center;
+  background-color: rgba(44, 146, 241, 0.63);
+}
